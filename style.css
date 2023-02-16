@@ -84,11 +84,11 @@ figcaption {
 
 }
 
-/* .logo{
+ .logo{
   border: 2px solid black;
   height: 100px;
   width: 150px;
-} */
+}
 
 * {
   box-sizing: border-box;
@@ -195,7 +195,6 @@ li:hover{
 }
 
 
-/*
 .caption-text{
 
   position: absolute;
@@ -207,4 +206,4 @@ li:hover{
   color: black;
   font-size: 1vw;
 
-  } */
+  }
