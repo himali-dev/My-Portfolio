@@ -2,7 +2,6 @@
 
 My-Portfolio -Himali Panchal
 
-(file:///Users/radheypanchal/Desktop/HimaliBootcamp/My-Portfolio/index.html)
 
 ## Description
  * Webpage created using HTML & CSS
